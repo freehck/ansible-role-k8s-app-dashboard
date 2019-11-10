@@ -16,7 +16,6 @@ galaxy_info:
     - kubernetes
     - k8s
     - dashboard
-    - kubernetes-dashboard
 
 dependencies:
   - role: freehck.k8s_app
