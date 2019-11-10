@@ -1,0 +1,8 @@
+---
+
+k8s_app_dashboard_ver: "v2.0.0-beta5"
+k8s_app_dashboard_download_definition: false
+# k8s_calico_definition_url: ""
+
+# do not rename it, this name refers to file in freehck.k8s_app role
+k8s_app_dashboard_definition_filename: "kubernetes-dashboard-{{ k8s_app_dashboard_ver }}.yaml"
